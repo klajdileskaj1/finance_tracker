@@ -1,5 +1,7 @@
 # README
 
+This is a new app in rails Finance Tracker 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
